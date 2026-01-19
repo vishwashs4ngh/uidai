@@ -1,0 +1,771 @@
+UIDAI DEMOGRAPHIC INTELLIGENCE REPORT
+=================================================================
+
+Total records analysed: 883110
+Severe anomalies detected: 8832
+Early-warning zones detected: 1802
+
+High-risk districts ranked by impact:
+                                 severe_cases  avg_impact                                                           dominant_reason
+district                                                                                                                           
+North East Delhi                           16    1.611438                          Sudden demographic shock; Large population swing
+Panipat                                     8    1.521125                                                    Multi-factor deviation
+Kondagaon                                   3    1.421000                                                         Ageing population
+Sepahijala                                  1    1.412000                                 Ageing population; Large population swing
+Warangal Urban                              4    1.402250                          Sudden demographic shock; Large population swing
+Uttar Dinajpur                             45    1.386422                                 Ageing population; Large population swing
+South Salmara Mankachar                     3    1.385333       Ageing population; Sudden demographic shock; Large population swing
+West Delhi                                 32    1.383906                                                    Multi-factor deviation
+North Delhi                                17    1.380353                          Sudden demographic shock; Large population swing
+East Delhi                                 32    1.376094                          Sudden demographic shock; Large population swing
+Kulgam                                      2    1.368500                                                    Multi-factor deviation
+Narayanpur                                  3    1.368333       Ageing population; Sudden demographic shock; Large population swing
+Jogulamba Gadwal                            5    1.362000                                                    Large population swing
+Amritsar                                   12    1.355083                                                         Ageing population
+North West Delhi                           56    1.345107                          Sudden demographic shock; Large population swing
+Mahasamund                                 14    1.342071       Ageing population; Sudden demographic shock; Large population swing
+Medchal-malkajgiri                         13    1.330692                          Sudden demographic shock; Large population swing
+Rampur                                     14    1.329000       Ageing population; Sudden demographic shock; Large population swing
+Pilibhit                                   22    1.328091                                                         Ageing population
+Kawardha                                    8    1.317000       Ageing population; Sudden demographic shock; Large population swing
+Suryapet                                    3    1.316000                                                    Large population swing
+Surguja                                    17    1.306059       Ageing population; Sudden demographic shock; Large population swing
+Rohtak                                      4    1.300000                                                    Multi-factor deviation
+Charkhi Dadri                               3    1.289667                                                    Large population swing
+Hanumakonda                                 1    1.287000                          Sudden demographic shock; Large population swing
+Komaram Bheem                               5    1.286000                                                    Large population swing
+Mahabubabad                                 3    1.284333                                                    Large population swing
+Faridabad                                  26    1.282962                                                    Multi-factor deviation
+Kishanganj                                 58    1.280897       Ageing population; Sudden demographic shock; Large population swing
+Jangoan                                     2    1.280000                                                    Large population swing
+Rajnandgaon                                20    1.278600       Ageing population; Sudden demographic shock; Large population swing
+Patiala                                    16    1.275562                                                    Multi-factor deviation
+Sangareddy                                  7    1.273143                          Sudden demographic shock; Large population swing
+Nirmal                                      3    1.267333                                                    Large population swing
+South                                       1    1.263000                                 Ageing population; Large population swing
+Thoubal                                    20    1.244550                                 Ageing population; Large population swing
+Sri Sathya Sai                              4    1.242500                                                    Large population swing
+Narsinghpur                                 6    1.232500                                                    Large population swing
+Vijayanagara                                1    1.231000                                                    Large population swing
+South Delhi                                39    1.228410                          Sudden demographic shock; Large population swing
+Yadadri.                                    7    1.223714                                 Ageing population; Large population swing
+Ghaziabad                                  43    1.220140                                                         Ageing population
+Jagitial                                    1    1.216000                                                    Large population swing
+Mewat                                      11    1.205364                                                    Large population swing
+Mungeli                                    12    1.201750       Ageing population; Sudden demographic shock; Large population swing
+Jhajjar                                     6    1.199667                                                    Multi-factor deviation
+Palwal                                     12    1.197333                          Sudden demographic shock; Large population swing
+Sant Ravidas Nagar                          4    1.193000       Ageing population; Sudden demographic shock; Large population swing
+Bhadradri Kothagudem                        7    1.189143                                                    Large population swing
+Singrauli                                  11    1.188182                                                    Multi-factor deviation
+Hassan                                      5    1.186600                                                    Large population swing
+Shahdara                                    9    1.186000                          Sudden demographic shock; Large population swing
+Bengaluru                                  62    1.185419                                                    Large population swing
+Barwani                                    18    1.184278                                                    Multi-factor deviation
+Chandigarh                                 26    1.169423                                                    Large population swing
+Gautam Buddha Nagar                        26    1.168500                                                    Multi-factor deviation
+Bishnupur                                  18    1.166278                                                    Large population swing
+Medchal?malkajgiri                          2    1.163500                          Sudden demographic shock; Large population swing
+Surat                                      59    1.162966                                                    Multi-factor deviation
+Kabeerdham                                  8    1.162750       Ageing population; Sudden demographic shock; Large population swing
+Jayashankar Bhupalpally                     5    1.158400                                 Ageing population; Large population swing
+Bongaigaon                                  9    1.152000                                 Ageing population; Large population swing
+South West Delhi                           41    1.148829                                                    Multi-factor deviation
+Jashpur                                    11    1.146727       Ageing population; Sudden demographic shock; Large population swing
+Nandurbar                                   7    1.142429                                 Ageing population; Large population swing
+Pulwama                                     6    1.139333                                                    Large population swing
+Vidisha                                    17    1.139176                                                    Multi-factor deviation
+Ramanagar                                   6    1.133833                                 Ageing population; Large population swing
+Firozabad                                  23    1.129870                                 Ageing population; Large population swing
+Annamayya                                   9    1.125778                                                    Large population swing
+Sonipat                                     6    1.125333                                                    Multi-factor deviation
+Hoshiarpur                                  9    1.122556                                                         Ageing population
+Paschim Medinipur                           8    1.120625                                 Ageing population; Large population swing
+Raigad                                      6    1.119833                                                         Ageing population
+Nellore                                     4    1.119250                                 Ageing population; Large population swing
+Tirupati                                    9    1.116111                                                    Large population swing
+Rewari                                      7    1.114143                                                    Multi-factor deviation
+South Sikkim                                1    1.114000                                 Ageing population; Large population swing
+Tarn Taran                                  5    1.113600                                                         Ageing population
+Nalanda                                    41    1.111390                                 Ageing population; Large population swing
+Udham Singh Nagar                          26    1.111231                          Sudden demographic shock; Large population swing
+Narayanpet                                  2    1.109500                                                    Large population swing
+Gurgaon                                    32    1.108844                                                    Multi-factor deviation
+Moradabad                                  28    1.107857                                 Ageing population; Large population swing
+South 24 Parganas                          66    1.106773       Ageing population; Sudden demographic shock; Large population swing
+Kamareddy                                   3    1.106667                                                    Large population swing
+Pakur                                       5    1.105600       Ageing population; Sudden demographic shock; Large population swing
+Kupwara                                    12    1.104917                          Sudden demographic shock; Large population swing
+Morbi                                       6    1.103000                                                    Large population swing
+Ratlam                                     18    1.099722                                                    Multi-factor deviation
+Thane                                      76    1.099539       Ageing population; Sudden demographic shock; Large population swing
+Saharanpur                                 20    1.098100       Ageing population; Sudden demographic shock; Large population swing
+Mumbai Suburban                            48    1.098042                                                    Large population swing
+Sidhi                                       8    1.097250                          Sudden demographic shock; Large population swing
+The Dangs                                   4    1.095750                                                    Large population swing
+Siddipet                                    3    1.095333                                                    Large population swing
+Sonapur                                     3    1.094000                                 Ageing population; Large population swing
+Gondiya                                     7    1.093857                                 Ageing population; Large population swing
+Indore                                     44    1.091886                          Sudden demographic shock; Large population swing
+Burhanpur                                   5    1.091000                                                    Large population swing
+Alipurduar                                  1    1.090000                                                    Large population swing
+Kalaburagi                                 14    1.089071                                                    Large population swing
+Harda                                       3    1.088000                                                    Large population swing
+Bemetara                                    6    1.086333       Ageing population; Sudden demographic shock; Large population swing
+K.v. Rangareddy                            30    1.085167                                                    Large population swing
+Bilaspur                                   28    1.084786       Ageing population; Sudden demographic shock; Large population swing
+Fazilka                                     8    1.082500       Ageing population; Sudden demographic shock; Large population swing
+Chhindwara                                 29    1.079621                                                    Multi-factor deviation
+Sheopur                                     9    1.077667                          Sudden demographic shock; Large population swing
+Murshidabad                                58    1.074155                                 Ageing population; Large population swing
+Morena                                     20    1.072800                          Sudden demographic shock; Large population swing
+Fatehabad                                  10    1.072700                                                    Large population swing
+Shajapur                                    6    1.070667                                 Ageing population; Large population swing
+Panchkula                                  12    1.069667                                                    Large population swing
+Cuddapah                                    9    1.068333                                 Ageing population; Large population swing
+Dindori                                    16    1.068125                                                    Multi-factor deviation
+Dhar                                       23    1.067957                                                    Multi-factor deviation
+Chandrapur                                 22    1.067818                                 Ageing population; Large population swing
+Mahabubnagar                               15    1.067333                                                    Large population swing
+Korba                                      17    1.066882       Ageing population; Sudden demographic shock; Large population swing
+Chittoor                                   20    1.064750                                                    Multi-factor deviation
+Anuppur                                     5    1.064400                                                    Large population swing
+Jabalpur                                   19    1.062947                          Sudden demographic shock; Large population swing
+Vikarabad                                   7    1.061571                          Sudden demographic shock; Large population swing
+Wanaparthy                                  2    1.061500                                                    Large population swing
+Neemuch                                    11    1.060545                                                    Multi-factor deviation
+Anantapur                                  21    1.059952                                 Ageing population; Large population swing
+Meerut                                     26    1.057731       Ageing population; Sudden demographic shock; Large population swing
+Raipur                                     26    1.057462                                 Ageing population; Large population swing
+Nanded                                     80    1.056775                                 Ageing population; Large population swing
+Balaghat                                   25    1.055560                                                    Large population swing
+Bandipore                                   4    1.051750                                                    Large population swing
+Belagavi                                    3    1.050667                                                    Large population swing
+Satna                                      22    1.049682                                                    Large population swing
+Bareilly                                   32    1.046781                          Sudden demographic shock; Large population swing
+Ashok Nagar                                10    1.046400                                                    Multi-factor deviation
+Budgam                                      7    1.044857                                                    Large population swing
+Sahebganj                                   6    1.043500       Ageing population; Sudden demographic shock; Large population swing
+Chatra                                      7    1.043429       Ageing population; Sudden demographic shock; Large population swing
+Harda *                                     1    1.041000                                 Ageing population; Large population swing
+Balod                                      21    1.040048       Ageing population; Sudden demographic shock; Large population swing
+Guntur                                     33    1.035000                                                    Multi-factor deviation
+Punch                                      10    1.034400                                                    Large population swing
+Sri Potti Sriramulu Nellore                 4    1.032250                          Sudden demographic shock; Large population swing
+Sirsa                                      12    1.031250                                                    Large population swing
+Betul                                      14    1.029286                                                    Large population swing
+Puruliya                                   14    1.029286                                 Ageing population; Large population swing
+Shupiyan                                    2    1.028000                                                    Large population swing
+Malda                                      23    1.026957       Ageing population; Sudden demographic shock; Large population swing
+Bangalore Rural                             7    1.026714                                                    Multi-factor deviation
+SAS Nagar (Mohali)                         11    1.026545                                                         Ageing population
+Hingoli                                    60    1.022800                                 Ageing population; Large population swing
+Shivamogga                                  3    1.021333                                                    Large population swing
+Mandla                                     20    1.020000                                                    Multi-factor deviation
+Shahdol                                    20    1.018950       Ageing population; Sudden demographic shock; Large population swing
+Dahod                                       8    1.017750                                                    Large population swing
+Valsad                                     11    1.017727                                                    Large population swing
+West Champaran                             22    1.016727                                 Ageing population; Large population swing
+Aligarh                                    43    1.014651                          Sudden demographic shock; Large population swing
+Kanyakumari                                 2    1.014500                                                    Large population swing
+Gir Somnath                                 2    1.010000                                                    Large population swing
+Bhopal                                     20    1.009650                                                    Large population swing
+Gurdaspur                                  13    1.006615                                                    Large population swing
+Rajkot                                     24    1.006500       Ageing population; Sudden demographic shock; Large population swing
+Karnal                                      6    1.005167                                                    Multi-factor deviation
+Wardha                                      2    1.005000                                                    Multi-factor deviation
+Maharajganj                                14    1.004429                          Sudden demographic shock; Large population swing
+Allahabad                                  26    1.003962                          Sudden demographic shock; Large population swing
+Kolar                                       8    1.002000                                                    Multi-factor deviation
+Kanniyakumari                               3    1.002000                                                    Large population swing
+Moga                                        2    1.002000                                 Ageing population; Large population swing
+Kurnool                                    40    0.997850                                                    Large population swing
+Central Delhi                               9    0.997556                          Sudden demographic shock; Large population swing
+Ujjain                                     21    0.996857                                                    Multi-factor deviation
+Kaithal                                     7    0.994429                                                    Multi-factor deviation
+Shahjahanpur                               18    0.994000                          Sudden demographic shock; Large population swing
+Hisar                                       9    0.993222                          Sudden demographic shock; Large population swing
+Balrampur                                  24    0.992792       Ageing population; Sudden demographic shock; Large population swing
+Aurangabad                                 28    0.991393                          Sudden demographic shock; Large population swing
+Bijnor                                     32    0.990875                          Sudden demographic shock; Large population swing
+Nainital                                   11    0.988091                                                    Multi-factor deviation
+Jalpaiguri                                 13    0.985462                                 Ageing population; Large population swing
+Koriya                                      3    0.984333       Ageing population; Sudden demographic shock; Large population swing
+Barpeta                                     8    0.984125                                 Ageing population; Large population swing
+Hyderabad                                  76    0.983868                                                    Large population swing
+West Garo Hills                             5    0.982600                                 Ageing population; Large population swing
+Agar Malwa                                  3    0.978333                                 Ageing population; Large population swing
+Haveri                                     21    0.977905                          Sudden demographic shock; Large population swing
+Yavatmal                                   48    0.977438                                 Ageing population; Large population swing
+Imphal East                                21    0.976333                                                    Large population swing
+Sagar                                      22    0.974182                                                    Large population swing
+Ananthapuramu                              16    0.971938                                                    Large population swing
+Jind                                       11    0.971727                                                    Multi-factor deviation
+Beed                                       32    0.971281                                 Ageing population; Large population swing
+Purnia                                     33    0.970576       Ageing population; Sudden demographic shock; Large population swing
+Hailakandi                                  2    0.969000                                 Ageing population; Large population swing
+Baloda Bazar                               19    0.968474       Ageing population; Sudden demographic shock; Large population swing
+Ukhrul                                      5    0.968200                                                    Large population swing
+Pauri Garhwal                               2    0.966500                                                    Large population swing
+Botad                                       2    0.964000                                                    Large population swing
+Palghar                                    18    0.962500                                 Ageing population; Large population swing
+Yamuna Nagar                               11    0.961545                                                    Large population swing
+Hojai                                       2    0.961000                          Sudden demographic shock; Large population swing
+Y. S. R                                    12    0.958917                                                    Large population swing
+Varanasi                                   38    0.958158                                 Ageing population; Large population swing
+Goalpara                                    7    0.957286                                                    Large population swing
+Simdega                                     4    0.956750       Ageing population; Sudden demographic shock; Large population swing
+Nandyal                                     9    0.956444                                                    Large population swing
+Chikkaballapur                              9    0.956111                                                    Large population swing
+Purba Medinipur                             4    0.954250                                                    Large population swing
+Kushinagar                                 21    0.952048                          Sudden demographic shock; Large population swing
+Davangere                                   9    0.950889                                                    Large population swing
+Amroha                                     12    0.950500       Ageing population; Sudden demographic shock; Large population swing
+Dewas                                      13    0.949615                          Sudden demographic shock; Large population swing
+Faizabad                                   14    0.947929                                 Ageing population; Large population swing
+Imphal West                                11    0.947909                                                    Large population swing
+Vijayapura                                  8    0.945125                                                    Large population swing
+Lucknow                                    34    0.945029       Ageing population; Sudden demographic shock; Large population swing
+Chatrapati Sambhaji Nagar                   3    0.943000                          Sudden demographic shock; Large population swing
+Budaun                                     21    0.938190                          Sudden demographic shock; Large population swing
+Ferozepur                                   4    0.938000                                                    Large population swing
+Araria                                     31    0.936323                                 Ageing population; Large population swing
+Shamli                                     10    0.935800       Ageing population; Sudden demographic shock; Large population swing
+Mohla-Manpur-Ambagarh Chouki                5    0.935200                          Sudden demographic shock; Large population swing
+Birbhum                                    23    0.934870                                 Ageing population; Large population swing
+Ambala                                      8    0.934375                                                    Multi-factor deviation
+Garhwa                                      5    0.932800       Ageing population; Sudden demographic shock; Large population swing
+Palamu                                     14    0.932000                          Sudden demographic shock; Large population swing
+Adilabad                                   15    0.931200                                 Ageing population; Large population swing
+Hanumangarh                                25    0.929920       Ageing population; Sudden demographic shock; Large population swing
+Bhagalpur                                  17    0.929294       Ageing population; Sudden demographic shock; Large population swing
+Bastar                                     12    0.928417       Ageing population; Sudden demographic shock; Large population swing
+Mahendragarh                                8    0.926250                                 Ageing population; Large population swing
+Dhubri                                     15    0.923933                                                    Large population swing
+Damoh                                      14    0.923071                                                    Large population swing
+Ballari                                     7    0.923000                                                    Multi-factor deviation
+Bulandshahr                                28    0.918964                          Sudden demographic shock; Large population swing
+Chitradurga                                 5    0.918400       Ageing population; Sudden demographic shock; Large population swing
+East Nimar                                  2    0.913000                                                    Large population swing
+Durg                                       21    0.911095       Ageing population; Sudden demographic shock; Large population swing
+Anantnag                                    8    0.910000                                                    Large population swing
+Seoni                                      25    0.910000                                                    Large population swing
+Katni                                      12    0.908250                          Sudden demographic shock; Large population swing
+Buldhana                                   13    0.908154                                 Ageing population; Large population swing
+Baran                                      20    0.906550                          Sudden demographic shock; Large population swing
+Mumbai City                                11    0.905909                                 Ageing population; Large population swing
+Dehradun                                   14    0.903929                                 Ageing population; Large population swing
+Cooch Behar                                 7    0.900143                                 Ageing population; Large population swing
+Barddhaman                                 11    0.898273                                 Ageing population; Large population swing
+Mandsaur                                   24    0.896458                                                    Large population swing
+Sitamarhi                                  23    0.896000       Ageing population; Sudden demographic shock; Large population swing
+Raichur                                     8    0.895125                                                    Multi-factor deviation
+Krishna                                    14    0.894929                                 Ageing population; Large population swing
+Solapur                                    41    0.894415                                 Ageing population; Large population swing
+Giridih                                    19    0.894053                          Sudden demographic shock; Large population swing
+Unnao                                      17    0.891471                          Sudden demographic shock; Large population swing
+Katihar                                    26    0.891385       Ageing population; Sudden demographic shock; Large population swing
+Lakhisarai                                  5    0.889000                                 Ageing population; Large population swing
+Janjgir-champa                             23    0.887913       Ageing population; Sudden demographic shock; Large population swing
+Kanpur Nagar                               32    0.887469                          Sudden demographic shock; Large population swing
+Dharwad                                    18    0.886722                                                    Large population swing
+Mysuru                                      5    0.884400                                                    Multi-factor deviation
+Gwalior                                    19    0.884263       Ageing population; Sudden demographic shock; Large population swing
+Ahmedabad                                  47    0.883213       Ageing population; Sudden demographic shock; Large population swing
+Osmanabad                                  20    0.881600                                 Ageing population; Large population swing
+Jaisalmer                                   5    0.881200                          Sudden demographic shock; Large population swing
+Tiruvallur                                 23    0.880913                                                    Large population swing
+Datia                                       9    0.879556                                                    Large population swing
+Jaipur                                     65    0.878908                          Sudden demographic shock; Large population swing
+Srikakulam                                 41    0.877488                                                    Large population swing
+Dholpur                                    18    0.877222                          Sudden demographic shock; Large population swing
+Nagaon                                     16    0.875375       Ageing population; Sudden demographic shock; Large population swing
+Banaskantha                                 8    0.872500                                                    Multi-factor deviation
+Koppal                                     16    0.868188                                                    Large population swing
+Kaushambi                                  12    0.866667                          Sudden demographic shock; Large population swing
+South Tripura                               6    0.866500                          Sudden demographic shock; Large population swing
+Tikamgarh                                  12    0.865833                                                    Large population swing
+Gadchiroli                                  4    0.864000                                 Ageing population; Large population swing
+Kurukshetra                                10    0.863300                                                    Large population swing
+Sehore                                      6    0.863000                                                    Large population swing
+Parbhani                                   23    0.862957                                 Ageing population; Large population swing
+Sheohar                                     6    0.860500       Ageing population; Sudden demographic shock; Large population swing
+West Godavari                              16    0.859250                                 Ageing population; Large population swing
+Panna                                      12    0.855167                          Sudden demographic shock; Large population swing
+Yadgir                                      6    0.852167                                                    Large population swing
+Khagaria                                   12    0.851083                          Sudden demographic shock; Large population swing
+Bagalkot                                   15    0.849867                                 Ageing population; Large population swing
+Jamtara                                     4    0.848250       Ageing population; Sudden demographic shock; Large population swing
+Kancheepuram                               22    0.846545                                                    Large population swing
+Visakhapatnam                              33    0.842455                                 Ageing population; Large population swing
+Amravati                                   18    0.841111                                                    Large population swing
+Chhatarpur                                 21    0.840429                          Sudden demographic shock; Large population swing
+Rajgarh                                    18    0.839667                                                    Large population swing
+East Godavari                              18    0.839667                                 Ageing population; Large population swing
+Ludhiana                                   23    0.836826                                                         Ageing population
+Khandwa                                     3    0.836333                                                    Large population swing
+Sirmaur                                     7    0.835143                                 Ageing population; Large population swing
+Bharuch                                     6    0.834333                                 Ageing population; Large population swing
+Samastipur                                 34    0.832294       Ageing population; Sudden demographic shock; Large population swing
+Dhamtari                                   11    0.830909       Ageing population; Sudden demographic shock; Large population swing
+Agra                                       28    0.830036                          Sudden demographic shock; Large population swing
+Madhepura                                  10    0.830000       Ageing population; Sudden demographic shock; Large population swing
+Kakinada                                    8    0.828125                                                    Large population swing
+Vizianagaram                               14    0.825286                                 Ageing population; Large population swing
+Banswara                                   16    0.824500       Ageing population; Sudden demographic shock; Large population swing
+Etawah                                     11    0.822727                                 Ageing population; Large population swing
+Fatehpur                                   21    0.821667                          Sudden demographic shock; Large population swing
+Tiruppur                                   13    0.821154                                                    Large population swing
+Godda                                       7    0.819571       Ageing population; Sudden demographic shock; Large population swing
+Sonbhadra                                  11    0.819545                          Sudden demographic shock; Large population swing
+Sambhal                                    16    0.818562       Ageing population; Sudden demographic shock; Large population swing
+Saharsa                                    12    0.816500       Ageing population; Sudden demographic shock; Large population swing
+Mansa                                       5    0.816200                                 Ageing population; Large population swing
+Nashik                                     30    0.816133                                 Ageing population; Large population swing
+Kheri                                      24    0.815458       Ageing population; Sudden demographic shock; Large population swing
+Sultanpur                                  16    0.814688                          Sudden demographic shock; Large population swing
+Bankura                                    14    0.813286                                 Ageing population; Large population swing
+Jhalawar                                   23    0.808696       Ageing population; Sudden demographic shock; Large population swing
+Darrang                                     2    0.808000                                                    Large population swing
+Jalgaon                                    13    0.807846       Ageing population; Sudden demographic shock; Large population swing
+Jhabua                                      7    0.807143       Ageing population; Sudden demographic shock; Large population swing
+Supaul                                     17    0.806412       Ageing population; Sudden demographic shock; Large population swing
+Srinagar                                    5    0.804800                                 Ageing population; Large population swing
+Koch Bihar                                  9    0.801556                                 Ageing population; Large population swing
+Patan                                       5    0.800400       Ageing population; Sudden demographic shock; Large population swing
+Kaimur (Bhabua)                             6    0.800167       Ageing population; Sudden demographic shock; Large population swing
+Nawada                                      9    0.800000       Ageing population; Sudden demographic shock; Large population swing
+Badgam                                      2    0.799000                                 Ageing population; Large population swing
+Raisen                                      9    0.798667                                                    Large population swing
+Dakshin Dinajpur                           14    0.798214       Ageing population; Sudden demographic shock; Large population swing
+Bijapur                                     6    0.796167                            Youth-heavy population; Large population swing
+Kanpur Dehat                               18    0.795000                          Sudden demographic shock; Large population swing
+Tuensang                                    1    0.794000                                                    Large population swing
+Gadag                                       7    0.793571                                                    Large population swing
+Karbi Anglong                               5    0.791800       Ageing population; Sudden demographic shock; Large population swing
+Khargone                                   10    0.791700                                 Ageing population; Large population swing
+Panchmahals                                 2    0.791000                                                    Large population swing
+Bahraich                                   21    0.789476       Ageing population; Sudden demographic shock; Large population swing
+Marigaon                                   11    0.788909                          Sudden demographic shock; Large population swing
+Haveri *                                    1    0.788000                          Sudden demographic shock; Large population swing
+Sri Muktsar Sahib                           4    0.787750                          Sudden demographic shock; Large population swing
+Sant Kabir Nagar                           11    0.786364                          Sudden demographic shock; Large population swing
+Purba Bardhaman                             5    0.785600                                                    Large population swing
+Lalitpur                                    6    0.785333                          Sudden demographic shock; Large population swing
+Washim                                     11    0.783273                                 Ageing population; Large population swing
+Umaria                                     10    0.783100                          Sudden demographic shock; Large population swing
+Muzaffarnagar                              22    0.782409       Ageing population; Sudden demographic shock; Large population swing
+Belgaum                                     3    0.781333                                                    Large population swing
+Bhind                                      14    0.781143                          Sudden demographic shock; Large population swing
+Sirohi                                     13    0.780846       Ageing population; Sudden demographic shock; Large population swing
+Guna                                       18    0.780556                          Sudden demographic shock; Large population swing
+Hardoi                                     21    0.780286                          Sudden demographic shock; Large population swing
+Hazaribagh                                  9    0.779667                          Sudden demographic shock; Large population swing
+Malerkotla                                  3    0.779333       Ageing population; Sudden demographic shock; Large population swing
+Pune                                       78    0.778833       Ageing population; Sudden demographic shock; Large population swing
+Gaya                                       24    0.778500                          Sudden demographic shock; Large population swing
+Kachchh                                    12    0.778000       Ageing population; Sudden demographic shock; Large population swing
+Mumbai                                     22    0.776091       Ageing population; Sudden demographic shock; Large population swing
+Gandhinagar                                16    0.774438       Ageing population; Sudden demographic shock; Large population swing
+N. T. R                                    12    0.773333                                 Ageing population; Large population swing
+Dhule                                       6    0.770167                                 Ageing population; Large population swing
+Begusarai                                  16    0.769437                          Sudden demographic shock; Large population swing
+Kakching                                    7    0.768714                          Sudden demographic shock; Large population swing
+Siddharthnagar                             10    0.767900                          Sudden demographic shock; Large population swing
+Muzaffarpur                                27    0.766963       Ageing population; Sudden demographic shock; Large population swing
+Narsimhapur                                 2    0.766500                                 Ageing population; Large population swing
+West Tripura                                8    0.766000                                 Ageing population; Large population swing
+Cachar                                      4    0.765750                                                    Large population swing
+Deoria                                     20    0.765450                          Sudden demographic shock; Large population swing
+Hapur                                       8    0.765125       Ageing population; Sudden demographic shock; Large population swing
+East Singhbhum                              9    0.763667       Ageing population; Sudden demographic shock; Large population swing
+Virudhunagar                               12    0.762083                                                    Large population swing
+Churu                                      22    0.760455                          Sudden demographic shock; Large population swing
+Haridwar                                    8    0.759875       Ageing population; Sudden demographic shock; Large population swing
+Patna                                      32    0.758844       Ageing population; Sudden demographic shock; Large population swing
+Gopalganj                                  17    0.758824       Ageing population; Sudden demographic shock; Large population swing
+Bikaner                                    20    0.758700                          Sudden demographic shock; Large population swing
+Malkangiri                                  5    0.756600       Ageing population; Sudden demographic shock; Large population swing
+Ranchi                                     16    0.755812       Ageing population; Sudden demographic shock; Large population swing
+Bhiwani                                     6    0.753667                                 Ageing population; Large population swing
+Bhojpur                                    20    0.752950                                 Ageing population; Large population swing
+Rewa                                       17    0.752941                                 Ageing population; Large population swing
+Howrah                                      5    0.752400       Ageing population; Sudden demographic shock; Large population swing
+Munger                                      9    0.752111       Ageing population; Sudden demographic shock; Large population swing
+Khunti                                     11    0.751727       Ageing population; Sudden demographic shock; Large population swing
+Uttarkashi                                  3    0.748000                                                    Large population swing
+Raigarh                                    19    0.747684       Ageing population; Sudden demographic shock; Large population swing
+Jodhpur                                    37    0.747216                          Sudden demographic shock; Large population swing
+Alwar                                      33    0.747152                          Sudden demographic shock; Large population swing
+Sivaganga                                   4    0.746500                                 Ageing population; Large population swing
+Pathankot                                   2    0.743500                                 Ageing population; Large population swing
+Mirzapur                                   18    0.740667                          Sudden demographic shock; Large population swing
+Bara Banki                                 22    0.739045       Ageing population; Sudden demographic shock; Large population swing
+East Champaran                             30    0.737033       Ageing population; Sudden demographic shock; Large population swing
+Ananthapur                                 13    0.736231                                                    Large population swing
+North 24 Parganas                          35    0.736029                                 Ageing population; Large population swing
+Jamui                                       9    0.735889       Ageing population; Sudden demographic shock; Large population swing
+Bhavnagar                                   8    0.735500       Ageing population; Sudden demographic shock; Large population swing
+Hooghly                                    18    0.735444                                 Ageing population; Large population swing
+Buxar                                      12    0.735333                                                    Large population swing
+Latehar                                     6    0.733833       Ageing population; Sudden demographic shock; Large population swing
+Gorakhpur                                  27    0.733185                          Sudden demographic shock; Large population swing
+Kannauj                                    13    0.732385                                                    Large population swing
+Rohtas                                     13    0.730692       Ageing population; Sudden demographic shock; Large population swing
+Baramula                                    9    0.730667                                                    Large population swing
+Chitrakoot                                  6    0.730167                          Sudden demographic shock; Large population swing
+Mandya                                      4    0.729750                                                    Large population swing
+Palnadu                                    14    0.728571                                                    Large population swing
+Vaishali                                   23    0.727130       Ageing population; Sudden demographic shock; Large population swing
+Karimnagar                                 10    0.727000       Ageing population; Sudden demographic shock; Large population swing
+Kota                                       27    0.725148                                                    Large population swing
+Ayodhya                                     6    0.723333                          Sudden demographic shock; Large population swing
+Narmada                                     4    0.722250                                                    Multi-factor deviation
+Deoghar                                    15    0.722200       Ageing population; Sudden demographic shock; Large population swing
+Amethi                                     13    0.721923                          Sudden demographic shock; Large population swing
+Ghazipur                                   27    0.721667                                                    Large population swing
+Viluppuram                                  4    0.721500                                 Ageing population; Large population swing
+West Singhbhum                              8    0.721375       Ageing population; Sudden demographic shock; Large population swing
+Krishnagiri                                13    0.719692                                                    Large population swing
+Kamrup                                      4    0.718250                                 Ageing population; Large population swing
+Jaunpur                                    30    0.714200                          Sudden demographic shock; Large population swing
+Ajmer                                      33    0.711545                                 Ageing population; Large population swing
+Nabarangapur                               10    0.711400                                 Ageing population; Large population swing
+Bapatla                                     5    0.711400                                                    Large population swing
+Barmer                                     30    0.710500       Ageing population; Sudden demographic shock; Large population swing
+Siwan                                      19    0.707000                                 Ageing population; Large population swing
+Bidar                                       7    0.704571                                                    Large population swing
+West Jaintia Hills                          2    0.703500                                                    Large population swing
+Nadia                                      22    0.703227       Ageing population; Sudden demographic shock; Large population swing
+Ganderbal                                   2    0.701000                                                    Large population swing
+Sitapur                                    20    0.700500                          Sudden demographic shock; Large population swing
+Jagatsinghapur                              3    0.698667                                                    Large population swing
+Gaurela-pendra-marwahi                      2    0.698500                          Sudden demographic shock; Large population swing
+Vadodara                                   20    0.698200                                 Ageing population; Large population swing
+Darbhanga                                  27    0.698185       Ageing population; Sudden demographic shock; Large population swing
+Chengalpattu                                3    0.697000                                                    Large population swing
+Prayagraj                                  18    0.696833       Ageing population; Sudden demographic shock; Large population swing
+Champhai                                    2    0.696500                                 Ageing population; Large population swing
+Ballia                                     17    0.696294                                                    Large population swing
+Gomati                                      3    0.694333                          Sudden demographic shock; Large population swing
+Shivpuri                                   14    0.693786                          Sudden demographic shock; Large population swing
+Azamgarh                                   41    0.692317                          Sudden demographic shock; Large population swing
+Mathura                                    22    0.692045                          Sudden demographic shock; Large population swing
+West Khasi Hills                            2    0.692000                          Sudden demographic shock; Large population swing
+Debagarh                                    2    0.692000                                 Ageing population; Large population swing
+Jamnagar                                    9    0.691778                                 Ageing population; Large population swing
+Basti                                      12    0.690250                          Sudden demographic shock; Large population swing
+Tonk                                       13    0.689462                          Sudden demographic shock; Large population swing
+Bokaro                                     16    0.688500       Ageing population; Sudden demographic shock; Large population swing
+Ganganagar                                 23    0.687957       Ageing population; Sudden demographic shock; Large population swing
+Mahesana                                    7    0.687143                                 Ageing population; Large population swing
+Madhubani                                  28    0.686607       Ageing population; Sudden demographic shock; Large population swing
+Chamba                                      3    0.686333                                                    Large population swing
+Madurai                                    18    0.683944                          Sudden demographic shock; Large population swing
+Mau                                        11    0.682182                          Sudden demographic shock; Large population swing
+Eluru                                       3    0.682000                                 Ageing population; Large population swing
+Vellore                                     4    0.681250                                                    Large population swing
+Bharatpur                                  25    0.680280       Ageing population; Sudden demographic shock; Large population swing
+East Jaintia Hills                          2    0.679000                          Sudden demographic shock; Large population swing
+Auraiya                                    10    0.678700       Ageing population; Sudden demographic shock; Large population swing
+Wayanad                                     1    0.678000                                                    Large population swing
+Nuapada                                     4    0.677000                                                    Large population swing
+Malappuram                                 10    0.676000                                                    Large population swing
+Prakasam                                   18    0.675167                                 Ageing population; Large population swing
+Pratapgarh                                 32    0.674406                          Sudden demographic shock; Large population swing
+Saran                                      28    0.673643                                                    Large population swing
+Nagpur                                     27    0.670630       Ageing population; Sudden demographic shock; Large population swing
+Ri Bhoi                                     3    0.669333                                                    Large population swing
+Warangal                                   16    0.668875                                                    Large population swing
+Nalbari                                     2    0.668500       Ageing population; Sudden demographic shock; Large population swing
+Kalahandi                                  11    0.668364                          Sudden demographic shock; Large population swing
+Dibrugarh                                   3    0.667667                                 Ageing population; Large population swing
+Surendra Nagar                              5    0.665600                                 Ageing population; Large population swing
+Bathinda                                    9    0.663889                                 Ageing population; Large population swing
+Bhadohi                                     9    0.663556                          Sudden demographic shock; Large population swing
+Banda                                      10    0.661700                          Sudden demographic shock; Large population swing
+Medak                                       9    0.661444                                                    Large population swing
+Angul                                       5    0.660200                          Sudden demographic shock; Large population swing
+Banka                                      12    0.656917       Ageing population; Sudden demographic shock; Large population swing
+Jalaun                                     11    0.653182                          Sudden demographic shock; Large population swing
+Kolkata                                    12    0.650667                                 Ageing population; Large population swing
+Mahbubnagar                                 5    0.650600                                                    Large population swing
+Coimbatore                                 14    0.648500                                                    Large population swing
+Leh                                         2    0.648000                                                    Large population swing
+Khairagarh Chhuikhadan Gandai               3    0.648000                          Sudden demographic shock; Large population swing
+Baghpat                                     9    0.647889                          Sudden demographic shock; Large population swing
+Maihar                                      5    0.646800                                 Ageing population; Large population swing
+Gonda                                      24    0.646625                          Sudden demographic shock; Large population swing
+Bundi                                      14    0.645357                          Sudden demographic shock; Large population swing
+Fatehgarh Sahib                             4    0.644500       Ageing population; Sudden demographic shock; Large population swing
+Garhwa *                                    1    0.643000       Ageing population; Sudden demographic shock; Large population swing
+Kasganj                                    10    0.640400       Ageing population; Sudden demographic shock; Large population swing
+Sangrur                                     6    0.640000                                 Ageing population; Large population swing
+Jhansi                                     15    0.639267                                                    Large population swing
+Ambedkar Nagar                             16    0.638313                                                    Large population swing
+Rae Bareli                                 22    0.638273                          Sudden demographic shock; Large population swing
+Nizamabad                                  18    0.637056                                                    Large population swing
+Baksa                                       1    0.637000                                 Ageing population; Large population swing
+Ahmadnagar                                 15    0.634867                          Sudden demographic shock; Large population swing
+North Tripura                               2    0.633000                                                    Large population swing
+Khammam                                    19    0.632684                          Sudden demographic shock; Large population swing
+Namakkal                                    2    0.632500                                                    Large population swing
+Mahoba                                      7    0.632286                          Sudden demographic shock; Large population swing
+Kathua                                      1    0.632000                                 Ageing population; Large population swing
+South West Garo Hills                       1    0.632000       Ageing population; Sudden demographic shock; Large population swing
+Etah                                       12    0.630917                          Sudden demographic shock; Large population swing
+Sikar                                      16    0.630875                                                    Large population swing
+South West Khasi Hills                      3    0.630667                                                    Large population swing
+Jalor                                      18    0.630056       Ageing population; Sudden demographic shock; Large population swing
+Kanker                                      3    0.629333       Ageing population; Sudden demographic shock; Large population swing
+Dumka                                      15    0.628800       Ageing population; Sudden demographic shock; Large population swing
+Chamrajnagar                                1    0.628000                            Youth-heavy population; Large population swing
+West Siang                                  1    0.628000                                                    Large population swing
+Hamirpur                                    8    0.627750                          Sudden demographic shock; Large population swing
+Chandauli                                  19    0.626000                          Sudden demographic shock; Large population swing
+Kokrajhar                                   2    0.624000                                                    Large population swing
+Chhotaudepur                                1    0.624000                                                    Large population swing
+Gajapati                                    5    0.623000                                                    Large population swing
+Shrawasti                                   7    0.621714       Ageing population; Sudden demographic shock; Large population swing
+Navsari                                     5    0.621600                            Youth-heavy population; Large population swing
+Kandhamal                                  11    0.621273                                 Ageing population; Large population swing
+Mauganj                                     4    0.621250                                 Ageing population; Large population swing
+Faridkot                                    2    0.620500       Ageing population; Sudden demographic shock; Large population swing
+Tiruvannamalai                             13    0.619923                                                    Large population swing
+Ramban                                      1    0.619000                                                    Large population swing
+Mainpuri                                   12    0.618917                          Sudden demographic shock; Large population swing
+Erode                                      11    0.617818                                                    Large population swing
+Karur                                       1    0.617000                                 Ageing population; Large population swing
+Udaipur                                    32    0.616125       Ageing population; Sudden demographic shock; Large population swing
+Nagarkurnool                                2    0.614500       Ageing population; Sudden demographic shock; Large population swing
+Latur                                      23    0.614261                                 Ageing population; Large population swing
+Jalna                                      11    0.614182                                 Ageing population; Large population swing
+Dindigul                                    8    0.614000                                                    Large population swing
+North Garo Hills                            1    0.614000       Ageing population; Sudden demographic shock; Large population swing
+Kozhikode                                   3    0.613000                                                    Large population swing
+Thoothukkudi                                3    0.610667                          Sudden demographic shock; Large population swing
+Jalandhar                                   9    0.609333                                 Ageing population; Large population swing
+Sawai Madhopur                             14    0.608857                          Sudden demographic shock; Large population swing
+Tehri Garhwal                               4    0.607500                                 Ageing population; Large population swing
+Lakhimpur                                   6    0.607000                          Sudden demographic shock; Large population swing
+Theni                                       8    0.605750                                                    Large population swing
+Amreli                                      4    0.604500                                                    Large population swing
+Porbandar                                   1    0.604000                                 Ageing population; Large population swing
+Gulbarga                                    5    0.601600                                                    Large population swing
+Koderma                                     5    0.601200       Ageing population; Sudden demographic shock; Large population swing
+Sundergarh                                  4    0.598750                          Sudden demographic shock; Large population swing
+Salem                                      17    0.598588                                                    Large population swing
+Jhunjhunun                                 10    0.597800                                                    Large population swing
+Ratnagiri                                   2    0.597500                                 Ageing population; Large population swing
+Tumkur                                      1    0.597000                                 Ageing population; Large population swing
+Chhatrapati Sambhajinagar                   6    0.596333                                 Ageing population; Large population swing
+Mayurbhanj                                 13    0.596308                                 Ageing population; Large population swing
+Dausa                                      16    0.595688                                                    Large population swing
+Akola                                       7    0.594571                                                    Large population swing
+East Khasi Hills                            3    0.593333                                 Ageing population; Large population swing
+Seraikela-Kharsawan                         2    0.591500       Ageing population; Sudden demographic shock; Large population swing
+Dharmapuri                                 10    0.591300                                                    Large population swing
+Chennai                                    33    0.590788                                 Ageing population; Large population swing
+Dhalai                                      4    0.590000                                                    Large population swing
+Dhanbad                                    26    0.589308       Ageing population; Sudden demographic shock; Large population swing
+Golaghat                                    7    0.586714                                 Ageing population; Large population swing
+Gumla                                       9    0.586222       Ageing population; Sudden demographic shock; Large population swing
+Haora                                       6    0.583500       Ageing population; Sudden demographic shock; Large population swing
+Arwal                                       7    0.582429       Ageing population; Sudden demographic shock; Large population swing
+The Nilgiris                                1    0.582000                                                    Large population swing
+Jharsuguda                                  3    0.580333                                                    Large population swing
+Pali                                       22    0.578000       Ageing population; Sudden demographic shock; Large population swing
+Nagaur                                     32    0.577562                          Sudden demographic shock; Large population swing
+Sakti                                       4    0.576750                          Sudden demographic shock; Large population swing
+Bhandara                                    2    0.576500                                 Ageing population; Large population swing
+Kendrapara                                  8    0.575750       Ageing population; Sudden demographic shock; Large population swing
+Khorda                                      5    0.575400                                                    Large population swing
+Kollam                                      1    0.574000                                                    Large population swing
+East Garo Hills                             2    0.573500                                 Ageing population; Large population swing
+Niwari                                      4    0.573000                                 Ageing population; Large population swing
+Tenkasi                                     3    0.572667                                                    Large population swing
+Rajsamand                                  22    0.571818       Ageing population; Sudden demographic shock; Large population swing
+Cuddalore                                  20    0.571500                                                    Large population swing
+Sambalpur                                   9    0.571222                                                    Large population swing
+Tirunelveli                                 7    0.570571                                                    Large population swing
+Rayagada                                    7    0.569429                                 Ageing population; Large population swing
+Darjeeling                                  2    0.568500                                 Ageing population; Large population swing
+Jajapur                                     2    0.566500                                 Ageing population; Large population swing
+Lohardaga                                   5    0.566000       Ageing population; Sudden demographic shock; Large population swing
+Parvathipuram Manyam                        7    0.564857                            Youth-heavy population; Large population swing
+Junagadh                                    3    0.562333                                 Ageing population; Large population swing
+Karauli                                    16    0.561688       Ageing population; Sudden demographic shock; Large population swing
+Koraput                                     4    0.561500                                                    Large population swing
+Dr. B. R. Ambedkar Konaseema                2    0.560500                                                    Large population swing
+Dhemaji                                     5    0.559400                          Sudden demographic shock; Large population swing
+Ramgarh                                     9    0.556778                                 Ageing population; Large population swing
+Gadag *                                     3    0.555667  Youth-heavy population; Sudden demographic shock; Large population swing
+Nalgonda                                   24    0.555375                                 Ageing population; Large population swing
+Sangli                                      6    0.555333                                 Ageing population; Large population swing
+South Goa                                   1    0.555000                                 Ageing population; Large population swing
+Farrukhabad                                14    0.554500                          Sudden demographic shock; Large population swing
+Tinsukia                                    3    0.551000                                 Ageing population; Large population swing
+Surajpur                                   10    0.550200       Ageing population; Sudden demographic shock; Large population swing
+South Garo Hills                            2    0.550000       Ageing population; Sudden demographic shock; Large population swing
+Kolhapur                                    7    0.549714                                 Ageing population; Large population swing
+Sabarkantha                                 6    0.549167                                 Ageing population; Large population swing
+Kheda                                      10    0.548600                                                    Large population swing
+Pudukkottai                                 9    0.548444                                                    Large population swing
+Rajouri                                     1    0.545000       Ageing population; Sudden demographic shock; Large population swing
+Anand                                       4    0.543000       Ageing population; Sudden demographic shock; Large population swing
+Baleswar                                    6    0.539167                                                    Large population swing
+Alirajpur                                   6    0.538833       Ageing population; Sudden demographic shock; Large population swing
+Sonitpur                                    4    0.538250                                                    Large population swing
+Ramanathapuram                              3    0.536333                                                    Large population swing
+Thiruvarur                                  2    0.535500                            Youth-heavy population; Large population swing
+Solan                                       1    0.535000       Ageing population; Sudden demographic shock; Large population swing
+Thanjavur                                  12    0.534333                                                    Large population swing
+Zunheboto                                   1    0.525000                                 Ageing population; Large population swing
+Rangareddi                                 24    0.523458                          Sudden demographic shock; Large population swing
+North Goa                                   1    0.523000                                 Ageing population; Large population swing
+Kohima                                      1    0.523000                                 Ageing population; Large population swing
+Alluri Sitharama Raju                       9    0.521000                                 Ageing population; Large population swing
+Anakapalli                                  5    0.519600                                                    Large population swing
+Dhenkanal                                   6    0.518833                                                    Large population swing
+Puri                                        6    0.518500                                 Ageing population; Large population swing
+Sundargarh                                  4    0.517500                                                    Large population swing
+Reasi                                       2    0.516000       Ageing population; Sudden demographic shock; Large population swing
+Mulugu                                      1    0.508000                                 Ageing population; Large population swing
+Balangir                                   11    0.505818                                                    Large population swing
+Chittorgarh                                19    0.505000       Ageing population; Sudden demographic shock; Large population swing
+Bangalore                                  37    0.504838       Ageing population; Sudden demographic shock; Large population swing
+Aizawl                                      3    0.502000                          Sudden demographic shock; Large population swing
+Pakaur                                      1    0.497000                          Sudden demographic shock; Large population swing
+Tiruchirappalli                            10    0.491200                                 Ageing population; Large population swing
+Dungarpur                                  20    0.490500                          Sudden demographic shock; Large population swing
+Bhadrak                                     6    0.490500                                 Ageing population; Large population swing
+Maldah                                      4    0.490000       Ageing population; Sudden demographic shock; Large population swing
+Bageshwar                                   1    0.487000                                                    Large population swing
+Bargarh                                     6    0.486667                                 Ageing population; Large population swing
+Pondicherry                                 2    0.486500                                 Ageing population; Large population swing
+Bardhaman                                   2    0.485500       Ageing population; Sudden demographic shock; Large population swing
+Satara                                      7    0.483143                                 Ageing population; Large population swing
+Kiphire                                     1    0.481000       Ageing population; Sudden demographic shock; Large population swing
+Tapi                                        6    0.480833                                                    Large population swing
+Dadra and Nagar Haveli                      2    0.480500                            Youth-heavy population; Large population swing
+Rudraprayag                                 2    0.479500                                                    Large population swing
+Udalguri                                    6    0.478500                                 Ageing population; Large population swing
+Kendujhar                                  15    0.475333                                                    Large population swing
+Barnala                                     4    0.469500       Ageing population; Sudden demographic shock; Large population swing
+Tamenglong                                  6    0.466333                            Youth-heavy population; Large population swing
+Bhilwara                                   25    0.464080       Ageing population; Sudden demographic shock; Large population swing
+South Twenty Four Parganas                 12    0.463917       Ageing population; Sudden demographic shock; Large population swing
+Wokha                                       1    0.461000                                                    Large population swing
+Puducherry                                  1    0.461000                                                    Large population swing
+Churachandpur                               5    0.458400                                                    Large population swing
+Kodarma                                     3    0.457000                          Sudden demographic shock; Large population swing
+Ganjam                                     19    0.454789                                 Ageing population; Large population swing
+Sindhudurg                                  1    0.449000                                                    Large population swing
+Bid                                         9    0.448222       Ageing population; Sudden demographic shock; Large population swing
+Hazaribag                                   5    0.445400       Ageing population; Sudden demographic shock; Large population swing
+Nagapattinam                                1    0.445000       Ageing population; Sudden demographic shock; Large population swing
+Cuttack                                    10    0.428900                          Sudden demographic shock; Large population swing
+Firozpur                                    6    0.427500                                 Ageing population; Large population swing
+K.V.Rangareddy                              2    0.426000       Ageing population; Sudden demographic shock; Large population swing
+Almora                                      1    0.425000                                 Ageing population; Large population swing
+Subarnapur                                  1    0.420000                                 Ageing population; Large population swing
+Jehanabad                                   8    0.415500       Ageing population; Sudden demographic shock; Large population swing
+Sheikhpura                                  2    0.415000       Ageing population; Sudden demographic shock; Large population swing
+Jorhat                                      2    0.415000                                                    Large population swing
+East Midnapore                              5    0.414600                                 Ageing population; Large population swing
+Uttara Kannada                              3    0.413333                                 Ageing population; Large population swing
+Jammu                                       5    0.411600                                 Ageing population; Large population swing
+Lunglei                                     3    0.410333       Ageing population; Sudden demographic shock; Large population swing
+Muktsar                                     1    0.409000       Ageing population; Sudden demographic shock; Large population swing
+Hathras                                    19    0.408895       Ageing population; Sudden demographic shock; Large population swing
+Ariyalur                                    4    0.405250                          Sudden demographic shock; Large population swing
+Baleshwar                                   4    0.387750                                 Ageing population; Large population swing
+Sahibganj                                   3    0.386333                                 Ageing population; Large population swing
+Purba Champaran                             4    0.381750       Ageing population; Sudden demographic shock; Large population swing
+Saiha                                       1    0.381000                                 Ageing population; Large population swing
+Chandel                                     9    0.379667                                 Ageing population; Large population swing
+Manendragarh–Chirmiri–Bharatpur             1    0.376000       Ageing population; Sudden demographic shock; Large population swing
+Barabanki                                   3    0.375333                          Sudden demographic shock; Large population swing
+Washim *                                    1    0.372000                                 Ageing population; Large population swing
+Rupnagar                                    3    0.347333                                 Ageing population; Large population swing
+Panch Mahals                                2    0.347000                                 Ageing population; Large population swing
+JAJPUR                                      2    0.346000                                                    Large population swing
+Medinipur                                   2    0.336000       Ageing population; Sudden demographic shock; Large population swing
+Sarangarh-Bilaigarh                         3    0.333000       Ageing population; Sudden demographic shock; Large population swing
+South East Delhi                            1    0.323000                          Sudden demographic shock; Large population swing
+West Midnapore                              4    0.321000                                 Ageing population; Large population swing
+Pashchimi Singhbhum                         2    0.319000       Ageing population; Sudden demographic shock; Large population swing
+North Twenty Four Parganas                  9    0.314889                                 Ageing population; Large population swing
+Jyotiba Phule Nagar                         3    0.309667                                 Ageing population; Large population swing
+Mahabub Nagar                               8    0.295875       Ageing population; Sudden demographic shock; Large population swing
+Champawat                                   2    0.287000       Ageing population; Sudden demographic shock; Large population swing
+Gariyaband                                  8    0.285875       Ageing population; Sudden demographic shock; Large population swing
+South Dinajpur                              3    0.285000       Ageing population; Sudden demographic shock; Large population swing
+Niuland                                     1    0.283000                          Sudden demographic shock; Large population swing
+Janjgir - Champa                            2    0.279000                            Youth-heavy population; Large population swing
+Purbi Singhbhum                             4    0.276250                                 Ageing population; Large population swing
+Tamulpur District                           1    0.275000                                 Ageing population; Large population swing
+Dohad                                       2    0.274000       Ageing population; Sudden demographic shock; Large population swing
+Kishtwar                                    1    0.271000                                 Ageing population; Large population swing
+Nayagarh                                    3    0.268000                                 Ageing population; Large population swing
+Chittaurgarh                                2    0.266500                                 Ageing population; Large population swing
+Sribhumi                                    1    0.266000                                                    Large population swing
+North Dinajpur                             14    0.265643       Ageing population; Sudden demographic shock; Large population swing
+Buldana                                     3    0.254333       Ageing population; Sudden demographic shock; Large population swing
+Purulia                                     6    0.253167                                 Ageing population; Large population swing
+Purnea                                      2    0.251500       Ageing population; Sudden demographic shock; Large population swing
+Jhargram                                   10    0.250000                            Youth-heavy population; Large population swing
+West Nimar                                  2    0.247000       Ageing population; Sudden demographic shock; Large population swing
+Jhunjhunu                                   2    0.242000                                 Ageing population; Large population swing
+NUAPADA                                     1    0.240000                                 Ageing population; Large population swing
+Deeg                                        1    0.238000       Ageing population; Sudden demographic shock; Large population swing
+Hasan                                       3    0.237667                                 Ageing population; Large population swing
+Serchhip                                    1    0.237000                            Youth-heavy population; Large population swing
+Bengaluru South                             5    0.235600                          Sudden demographic shock; Large population swing
+Dakshin Bastar Dantewada                    1    0.232000       Ageing population; Sudden demographic shock; Large population swing
+Mammit                                      1    0.231000                                 Ageing population; Large population swing
+Kolasib                                     1    0.231000                            Youth-heavy population; Large population swing
+Davanagere                                  3    0.228000                                 Ageing population; Large population swing
+Pithoragarh                                 1    0.225000       Ageing population; Sudden demographic shock; Large population swing
+yadgir                                      1    0.218000       Ageing population; Sudden demographic shock; Large population swing
+Ahmadabad                                  11    0.216636       Ageing population; Sudden demographic shock; Large population swing
+Dakshina Kannada                            1    0.216000                            Youth-heavy population; Large population swing
+Chikmagalur                                 1    0.215000                                 Ageing population; Large population swing
+Khordha                                     4    0.210000                                 Ageing population; Large population swing
+Namchi                                      1    0.207000                                 Ageing population; Large population swing
+Senapati                                   15    0.204933                            Youth-heavy population; Large population swing
+Villupuram                                  1    0.197000                                 Ageing population; Large population swing
+Mumbai( Sub Urban )                         3    0.188667       Ageing population; Sudden demographic shock; Large population swing
+Mahrajganj                                  2    0.185500       Ageing population; Sudden demographic shock; Large population swing
+Surendranagar                               3    0.185333       Ageing population; Sudden demographic shock; Large population swing
+Dharashiv                                   7    0.184857                            Youth-heavy population; Large population swing
+Sheikpura                                   2    0.176500       Ageing population; Sudden demographic shock; Large population swing
+Pashchim Champaran                          7    0.174571       Ageing population; Sudden demographic shock; Large population swing
+Palamau                                     3    0.159000       Ageing population; Sudden demographic shock; Large population swing
+Darjiling                                   3    0.158333                                 Ageing population; Large population swing
+Doda                                        1    0.158000                                 Ageing population; Large population swing
+Hugli                                       3    0.154000                                 Ageing population; Large population swing
+Sibsagar                                    1    0.151000                                 Ageing population; Large population swing
+Bajali                                      2    0.143500       Ageing population; Sudden demographic shock; Large population swing
+West Karbi Anglong                          1    0.143000                                 Ageing population; Large population swing
+Ahmed Nagar                                 1    0.142000       Ageing population; Sudden demographic shock; Large population swing
+Bulandshahar                                5    0.138000       Ageing population; Sudden demographic shock; Large population swing
+Pandhurna                                   2    0.137500                                 Ageing population; Large population swing
+Kasaragod                                   1    0.134000                            Youth-heavy population; Large population swing
+Gondiya *                                   2    0.130000       Ageing population; Sudden demographic shock; Large population swing
+Banas Kantha                                2    0.128500       Ageing population; Sudden demographic shock; Large population swing
+Aurangabad(bh)                              2    0.124000       Ageing population; Sudden demographic shock; Large population swing
+Thiruvallur                                 2    0.119500                                 Ageing population; Large population swing
+hooghly                                     1    0.110000       Ageing population; Sudden demographic shock; Large population swing
+Samstipur                                   3    0.102667                            Youth-heavy population; Large population swing
+Nandurbar *                                 1    0.100000                                 Ageing population; Large population swing
+Hardwar                                     2    0.092000       Ageing population; Sudden demographic shock; Large population swing
+Deeg                                        3    0.087667       Ageing population; Sudden demographic shock; Large population swing
+Kotputli-Behror                             1    0.064000       Ageing population; Sudden demographic shock; Large population swing
+Yamunanagar                                 2    0.058500       Ageing population; Sudden demographic shock; Large population swing
+Sant Ravidas Nagar Bhadohi                  1    0.058000       Ageing population; Sudden demographic shock; Large population swing
+S.A.S Nagar(Mohali)                         1    0.019000       Ageing population; Sudden demographic shock; Large population swing
+Jalore                                      1    0.013000       Ageing population; Sudden demographic shock; Large population swing
+
+Interpretation:
+The demographic stress observed is driven primarily by abrupt population changes and age-structure imbalance. Early-warning zones highlight regions showing emerging instability before reaching severe anomaly thresholds.
